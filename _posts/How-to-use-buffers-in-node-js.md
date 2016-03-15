@@ -1,10 +1,8 @@
-title: "How to use buffers in node.js"
-date: 2015-04-07 13:55:07
-categories:
-- Programming
-tags:
-- Javascript
-- Node.js
+---
+layout: post
+title:  "How to use buffers in node.js"
+date:   2015-04-07 13:55:07 -0600
+categories: Programming
 ---
 
 ## What are buffers?

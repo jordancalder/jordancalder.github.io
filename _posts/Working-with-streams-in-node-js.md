@@ -1,10 +1,8 @@
-title: "Working with streams in node.js"
-date: 2015-04-08 22:39:41
-categories:
-- Programming
-tags:
-- Javascript
-- Node.js
+---
+layout: post
+title:  "Working with streams in node.js"
+date:   2015-04-08 22:39:41 -0600
+categories: Programming
 ---
 
 Node.js is an asynchronous and event driven platform. It uses an event driven, non-blocking I/O model. If you are building something that is I/O bound, you can take advantage of streams.

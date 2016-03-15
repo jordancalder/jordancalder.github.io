@@ -1,11 +1,8 @@
-title: "Child processes in node.js"
-date: 2015-04-21 18:38:36
-tags:
-categories:
-- Programming
-tags:
-- Javascript
-- Node.js
+---
+layout: post
+title:  "Child processes in node.js"
+date:   2015-04-21 18:38:36 -0600
+categories: Programming
 ---
 
 ## What are child processes
