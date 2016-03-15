@@ -8,8 +8,7 @@
 # Site settings
 title: Jordan Calder
 email: jordancalder@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-	Writings, thoughts, and learnings of a computer geek.
+description: "Writings, thoughts, and learnings of a computer geek."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jordancalder.github.io" # the base hostname & protocol for your site
 twitter_username: jordankalder
